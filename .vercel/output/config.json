@@ -7,10 +7,6 @@
             1920
         ],
         "minimumCacheTTL": 31536000,
-        "formats": [
-            "image/jpeg",
-            "image/png"
-        ],
         "domains": [
             "afisha.yandex.ru"
         ]
