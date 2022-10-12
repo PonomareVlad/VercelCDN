@@ -8,8 +8,6 @@
         ],
         "minimumCacheTTL": 31536000,
         "formats": [
-            "image/webp",
-            "image/avif",
             "image/jpeg",
             "image/png"
         ],
