@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "images": {
+        "sizes": [
+            1024,
+            1080,
+            1920
+        ],
+        "minimumCacheTTL": 31536000,
+        "domains": [
+            "*.vercel.app"
+        ]
+    }
+}
